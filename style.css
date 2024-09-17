@@ -1,0 +1,16 @@
+html{
+    background: hsla(126, 42%, 33%, 1);
+    background: linear-gradient(0deg, hsla(126, 42%, 33%, 1) 0%, hsla(23, 80%, 27%, 1) 100%);
+    background: -moz-linear-gradient(0deg, hsla(126, 42%, 33%, 1) 0%, hsla(23, 80%, 27%, 1) 100%);
+    background: -webkit-linear-gradient(0deg, hsla(126, 42%, 33%, 1) 0%, hsla(23, 80%, 27%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#317838", endColorstr="#7B380E", GradientType=1 );
+    
+    color: white;
+    padding: 32px;
+}
+label{
+    font-family: Agency FB;
+}
+h1{
+    font-family: Arial Rounded MT Bold, Helvetica, Arial, sans-serif;
+}
